@@ -1,0 +1,2 @@
+Certainly! To remove a specific file from the Git staging area, you can use the following command
+Inside feature branch
